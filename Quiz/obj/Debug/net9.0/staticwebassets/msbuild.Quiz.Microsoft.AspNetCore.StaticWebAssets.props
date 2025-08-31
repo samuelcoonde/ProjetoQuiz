@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>c7ky179kl2</Fingerprint>
-      <Integrity>OLgBWBpeEejscICXQc5aRA6ZUzr66vAX6yS18AAyvqI=</Integrity>
+      <Fingerprint>6m7haalj2o</Fingerprint>
+      <Integrity>zgKkYIE29T95890/DryFNGluEghrHxG9+DAD/gSbnC0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\questoes.css'))</OriginalItemSpec>

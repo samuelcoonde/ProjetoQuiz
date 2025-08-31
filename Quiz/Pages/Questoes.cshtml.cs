@@ -18,6 +18,9 @@ namespace Quiz.Pages
         [BindProperty]
         public DateTime? RespostaPergunta4 { get; set; }
 
+        [BindProperty]
+        public string? RespostaPergunta5 { get; set; }
+
         public int QtdAcertos { get; set; }
 
         public void OnGet()
@@ -42,6 +45,13 @@ namespace Quiz.Pages
             {
                 DateTime dataDotNet = new DateTime(2002, 2, 13);
                 if(RespostaPergunta4 == dataDotNet)
+                {
+                    QtdAcertos++;
+                }
+            }
+            if(RespostaPergunta5 != null)
+            {
+                if (RespostaPergunta5.ToUpper().Equals("SELECT"))
                 {
                     QtdAcertos++;
                 }

@@ -4,7 +4,7 @@
 	ViewData["Title"] = "Quiz";
 }
 
-<div class="Pergunta">
+<div class="Perguntas">
 		<form method="post" asp-page-handler="ResponderPerguntas">
 			<div class="Pergunta1">
 				<h2>HTML é uma linguagem de programação?</h2>
@@ -18,8 +18,6 @@
 				</label>
 			</div>
 
-			<br>
-
 			<div class="Pergunta2">
 				<h2>CSS é uma linguagem de estilização de páginas WEB?</h2>
 				<br>
@@ -31,8 +29,6 @@
 				<input type="radio" asp-for="RespostaPergunta2" value="false"> Não
 				</label>
 			</div>
-
-			<br>
 
 			<div class="Pergunta3">
 				<h2>Qual linguagem de programação utilizamos para estruturar banco de dados relacionais?</h2>
@@ -58,11 +54,14 @@
 				</label>
 			</div>
 
-			<br>
-
 			<div class="Pergunta4">
 				<h2>Em qual ano o .NET foi criado?</h2>
 				<input type="date" asp-for="RespostaPergunta4">
+			</div>
+
+			<div class="Pergunta5">
+				<h2>Em SQL (Strucutre Query Language) qual comando utilizamos para realizar uma consulta?</h2>
+				<input type="text" asp-for="RespostaPergunta5" placeholder="Digite aqui..."/>
 			</div>
 		<button type="submit" class="BtnPerguntas">Responder</button>
 		</form>	
