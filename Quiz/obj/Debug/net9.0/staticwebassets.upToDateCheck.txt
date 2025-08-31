@@ -32,6 +32,7 @@ C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwro
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\img\javascript-original.svg
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
@@ -67,6 +68,10 @@ wwwroot\css\questoes.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\img\bebepensando.png
+wwwroot\img\codigo.png
+wwwroot\img\codigo2.png
+wwwroot\img\codigo3.png
+wwwroot\img\javascript-original.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

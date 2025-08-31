@@ -5,15 +5,16 @@
 }
 
 <div class="Perguntas">
+	<p>(Após responder as perguntas verifique o resultado no final da página)</p>
 		<form method="post" asp-page-handler="ResponderPerguntas">
 			<div class="Pergunta1">
 				<h2>HTML é uma linguagem de programação?</h2>
 				<br>
-				<label class="form-check-label" for="radioSim">
-				<input type="radio" asp-for="RespostaPergunta1" value="true"> Sim
+				<label class="LabelRadio">
+				<input type="radio" id="op1" asp-for="RespostaPergunta1" value="true"> Sim
 				</label>
 
-				<label class="form-check-label" for="radioNao">
+				<label class="LabelRadio">
 				<input type="radio" asp-for="RespostaPergunta1" value="false"> Não
 				</label>
 			</div>
@@ -21,11 +22,11 @@
 			<div class="Pergunta2">
 				<h2>CSS é uma linguagem de estilização de páginas WEB?</h2>
 				<br>
-				<label class="form-check-label" for="radioSim">
+				<label class="form-check-label">
 				<input type="radio" asp-for="RespostaPergunta2" value="true"> Sim
 				</label>
 
-				<label class="form-check-label" for="radioNao">
+				<label class="form-check-label">
 				<input type="radio" asp-for="RespostaPergunta2" value="false"> Não
 				</label>
 			</div>
@@ -33,23 +34,23 @@
 			<div class="Pergunta3">
 				<h2>Qual linguagem de programação utilizamos para estruturar banco de dados relacionais?</h2>
 				<br>
-				<label class="form-check-label" for="radioSim">
+				<label class="form-check-label">
 					<input type="radio" asp-for="RespostaPergunta3" value="C#"> C#
 				</label>
 
-				<label class="form-check-label" for="radioNao">
+				<label class="form-check-label">
 					<input type="radio" asp-for="RespostaPergunta3" value="Java"> Java
 				</label>
 
-				<label class="form-check-label" for="radioSim">
+				<label class="form-check-label">
 					<input type="radio" asp-for="RespostaPergunta3" value="SQL"> SQL
 				</label>
 
-				<label class="form-check-label" for="radioNao">
+				<label class="form-check-label">
 					<input type="radio" asp-for="RespostaPergunta3" value="Ruby"> Ruby
 				</label>
 
-				<label class="form-check-label" for="radioNao">
+				<label class="form-check-label">
 					<input type="radio" asp-for="RespostaPergunta3" value="GitHub"> GitHub
 				</label>
 			</div>
@@ -63,11 +64,108 @@
 				<h2>Em SQL (Strucutre Query Language) qual comando utilizamos para realizar uma consulta?</h2>
 				<input type="text" asp-for="RespostaPergunta5" placeholder="Digite aqui..."/>
 			</div>
+
+			<div class="Pergunta6">
+				<h2>De qual linguagem de programação é esse icon?</h2>
+			<img src="~/img/javascript-original.svg"/>
+			<br>
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta6" value="Python"> Python
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta6" value="PHP"> PHP
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta6" value="CSS"> CSS
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta6" value="Javascript"> Javascript
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta6" value="Angular"> Angular
+				</label>
+			</div>
+
+			<div class="Pergunta7">
+				<h2>Qual será a saída desse programa abaixo?</h2>
+				<img src="~/img/codigo.png" />
+				<br>
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta7" value=1> Resultado: 22
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta7" value=2> Resultado:
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta7" value=3> Erro de compilação
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta7" value=4> Resultado: 4
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta7" value=5> Resultado: 2 2
+				</label>
+			</div>
+
+			<div class="Pergunta8">
+				<h2>Qual será o valor de x quando o laço de repetição acabar?</h2>
+				<img src="~/img/codigo2.png" />
+				<br>
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta8" value=1> 12
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta8" value=2> 10
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta8" value=3> 8
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta8" value=4> Erro ao compilar
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta8" value=5> 0
+				</label>
+			</div>
+
+			<div class="Pergunta9">
+				<h2>Qual expressão utilizamos para tomar decisões com base em condições?</h2>
+				<br>
+				<input type="text" asp-for="RespostaPergunta9" placeholder="Digite aqui..."/> 
+			</div>
+
+			<div class="Pergunta10">
+				<h2>Qual será a saída da expressão?</h2>
+				<img src="~/img/codigo3.png" />
+				<br>
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta10" value=true> Verdadeiro
+				</label>
+
+				<label class="form-check-label">
+					<input type="radio" asp-for="RespostaPergunta10" value=false> Falso
+				</label>
+			</div>
 		<button type="submit" class="BtnPerguntas">Responder</button>
 		</form>	
 </div>
 
-
-@{
-	<p>Quantidade de acertos: @Model.QtdAcertos</p>
-}
+<div class="Resultado">
+	<details>
+		<summary> Clique aqui para ver o resultado </summary>
+		<br>
+		<p>Quantidade de questões certas: @Model.QtdAcertos</p>
+	</details>
+</div>

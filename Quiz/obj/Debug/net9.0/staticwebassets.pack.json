@@ -25,6 +25,22 @@
       "PackagePath": "staticwebassets\\img\\bebepensando.png"
     },
     {
+      "Id": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\codigo.png",
+      "PackagePath": "staticwebassets\\img\\codigo.png"
+    },
+    {
+      "Id": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\codigo2.png",
+      "PackagePath": "staticwebassets\\img\\codigo2.png"
+    },
+    {
+      "Id": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\codigo3.png",
+      "PackagePath": "staticwebassets\\img\\codigo3.png"
+    },
+    {
+      "Id": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\javascript-original.svg",
+      "PackagePath": "staticwebassets\\img\\javascript-original.svg"
+    },
+    {
       "Id": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

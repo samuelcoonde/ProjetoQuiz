@@ -98,4 +98,5 @@ C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\D
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\Quiz.sourcelink.json
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\76ftn8os79-k6pxfbl58i.gz
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\yyxasyom66-5b1gjid3gv.gz
-C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\43mwft5bcj-6m7haalj2o.gz
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\juekqmbdoq-yazx1i58e5.gz
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\43mwft5bcj-6xwhouyrj1.gz

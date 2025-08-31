@@ -21,6 +21,21 @@ namespace Quiz.Pages
         [BindProperty]
         public string? RespostaPergunta5 { get; set; }
 
+        [BindProperty]
+        public string? RespostaPergunta6 { get; set; }
+
+        [BindProperty]
+        public int RespostaPergunta7 { get; set; }
+
+        [BindProperty]
+        public int RespostaPergunta8 { get; set; }
+
+        [BindProperty]
+        public string? RespostaPergunta9 { get; set; }
+
+        [BindProperty]
+        public bool? RespostaPergunta10 { get; set; }
+
         public int QtdAcertos { get; set; }
 
         public void OnGet()
@@ -37,9 +52,12 @@ namespace Quiz.Pages
             {
                 QtdAcertos++;
             }
-            if(RespostaPergunta3 == "SQL")
+            if(RespostaPergunta3 != null)
             {
-                QtdAcertos++;
+                if (RespostaPergunta3.ToUpper().Equals("SQL"))
+                {
+                    QtdAcertos++;
+                }
             }
             if(RespostaPergunta4 < DateTime.Now)
             {
@@ -55,6 +73,32 @@ namespace Quiz.Pages
                 {
                     QtdAcertos++;
                 }
+            }
+            if(RespostaPergunta6 != null)
+            {
+                if (RespostaPergunta6.Equals("Javascript"))
+                {
+                    QtdAcertos++;
+                }
+            }
+            if(RespostaPergunta7 == 3)
+            {
+                QtdAcertos++;
+            }
+            if(RespostaPergunta8 == 2)
+            {
+                QtdAcertos++;
+            }
+            if(RespostaPergunta9 != null)
+            {
+                if (RespostaPergunta9.ToLower().Equals("if"))
+                {
+                    QtdAcertos++;
+                }
+            }
+            if(RespostaPergunta10 == false)
+            {
+                QtdAcertos++;
             }
         }
 
