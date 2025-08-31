@@ -7,6 +7,7 @@ C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwro
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\js\site.js
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\css\questoes.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
@@ -57,11 +58,15 @@ C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwro
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\css\introducao.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\css\introducao.css
+wwwroot\css\questoes.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\bebepensando.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

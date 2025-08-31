@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8eNtcjyomm2H6hBCNtmHG3njHlMBizMSJiXH/qv4p8M=",
+  "Hash": "IX+kv4bBThDXFV3Mt47EuTIDB57dSHiA/KcL9cmjQk4=",
   "Source": "Quiz",
   "BasePath": "_content/Quiz",
   "Mode": "Default",
@@ -227,6 +227,27 @@
       "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\43mwft5bcj-kcto7k2lue.gz",
+      "SourceId": "Quiz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Quiz",
+      "RelativePath": "css/questoes#[.{fingerprint=kcto7k2lue}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\questoes.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sha1jvbsdw",
+      "Integrity": "oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\questoes.css"
+    },
+    {
       "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\46a95e5kle-fvhpjtyr6v.gz",
       "SourceId": "Quiz",
       "SourceType": "Discovered",
@@ -395,12 +416,12 @@
       "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-k6pxfbl58i.gz",
       "SourceId": "Quiz",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Quiz",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=k6pxfbl58i}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -409,8 +430,8 @@
       "RelatedAsset": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "rjpqwellh2",
+      "Integrity": "KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\site.css"
@@ -1298,6 +1319,27 @@
       "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\yyxasyom66-5b1gjid3gv.gz",
+      "SourceId": "Quiz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Quiz",
+      "RelativePath": "css/introducao#[.{fingerprint=5b1gjid3gv}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\introducao.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "33g0owqile",
+      "Integrity": "bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\introducao.css"
+    },
+    {
       "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\z2razz03jv-4v8eqarkd7.gz",
       "SourceId": "Quiz",
       "SourceType": "Discovered",
@@ -1403,6 +1445,48 @@
       "OriginalItemSpec": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Quiz.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\introducao.css",
+      "SourceId": "Quiz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\",
+      "BasePath": "_content/Quiz",
+      "RelativePath": "css/introducao#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5b1gjid3gv",
+      "Integrity": "oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\introducao.css"
+    },
+    {
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\questoes.css",
+      "SourceId": "Quiz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\",
+      "BasePath": "_content/Quiz",
+      "RelativePath": "css/questoes#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcto7k2lue",
+      "Integrity": "bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\questoes.css"
+    },
+    {
       "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\site.css",
       "SourceId": "Quiz",
       "SourceType": "Discovered",
@@ -1417,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "k6pxfbl58i",
+      "Integrity": "vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1443,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\bebepensando.png",
+      "SourceId": "Quiz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\",
+      "BasePath": "_content/Quiz",
+      "RelativePath": "img/bebepensando#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96exom6pq5",
+      "Integrity": "/2naQPdRscjl9ENazHb1UYXYT0YK6Jz8/IpoazzEzk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bebepensando.png"
     },
     {
       "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\js\\site.js",
@@ -2728,13 +2833,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-b9sayid5wm.gz",
+      "Route": "css/introducao.5b1gjid3gv.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\yyxasyom66-5b1gjid3gv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.004347826087"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2849,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "229"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:28:55 GMT"
+          "Value": "Sat, 30 Aug 2025 21:59:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,26 +2877,614 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "5b1gjid3gv"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/introducao.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/introducao.5b1gjid3gv.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\introducao.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5b1gjid3gv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/introducao.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8="
+        }
+      ]
+    },
+    {
+      "Route": "css/introducao.5b1gjid3gv.css.gz",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\yyxasyom66-5b1gjid3gv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5b1gjid3gv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/introducao.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI="
+        }
+      ]
+    },
+    {
+      "Route": "css/introducao.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\yyxasyom66-5b1gjid3gv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004347826087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8="
+        }
+      ]
+    },
+    {
+      "Route": "css/introducao.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\introducao.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oXWs6ekszaJYh0ehI/8mwadNlSo5M7S1KgTuTkwTmR8="
+        }
+      ]
+    },
+    {
+      "Route": "css/introducao.css.gz",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\yyxasyom66-5b1gjid3gv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwmxIr2Lm+w5sq6KJDLmLltqg9nudfMobPUlQAc+LUI="
+        }
+      ]
+    },
+    {
+      "Route": "css/questoes.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\43mwft5bcj-kcto7k2lue.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003649635036"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 31 Aug 2025 14:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds="
+        }
+      ]
+    },
+    {
+      "Route": "css/questoes.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\questoes.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 31 Aug 2025 14:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds="
+        }
+      ]
+    },
+    {
+      "Route": "css/questoes.css.gz",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\43mwft5bcj-kcto7k2lue.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 31 Aug 2025 14:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/questoes.kcto7k2lue.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\43mwft5bcj-kcto7k2lue.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003649635036"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 31 Aug 2025 14:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcto7k2lue"
+        },
+        {
+          "Name": "label",
+          "Value": "css/questoes.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds="
+        }
+      ]
+    },
+    {
+      "Route": "css/questoes.kcto7k2lue.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\questoes.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 31 Aug 2025 14:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcto7k2lue"
+        },
+        {
+          "Name": "label",
+          "Value": "css/questoes.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bL5WYd5HaQG1txL5rAuHDdhGShO0CzvQaa3MTZDmEds="
+        }
+      ]
+    },
+    {
+      "Route": "css/questoes.kcto7k2lue.css.gz",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\43mwft5bcj-kcto7k2lue.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 31 Aug 2025 14:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kcto7k2lue"
+        },
+        {
+          "Name": "label",
+          "Value": "css/questoes.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oJWsi5X7MXTAfx7iIQ54PzOLoqTGqC1+F7IeTpDIGWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-k6pxfbl58i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002645502646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 22:27:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +3494,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "796"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +3502,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:28:55 GMT"
+          "Value": "Sat, 30 Aug 2025 22:27:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-k6pxfbl58i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 22:27:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.k6pxfbl58i.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-k6pxfbl58i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002645502646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 22:27:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6pxfbl58i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.k6pxfbl58i.css",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 22:27:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +3661,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "k6pxfbl58i"
         },
         {
           "Name": "label",
@@ -2831,13 +3669,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-vAgBjvcz/rJzmIKPbYHX21ToVgJaRUJoxCf3z3dZLvE="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-b9sayid5wm.gz",
+      "Route": "css/site.k6pxfbl58i.css.gz",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-k6pxfbl58i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +3684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "377"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +3692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:28:55 GMT"
+          "Value": "Sat, 30 Aug 2025 22:27:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3714,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "k6pxfbl58i"
         },
         {
           "Name": "label",
@@ -2884,144 +3722,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:28:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:28:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\obj\\Debug\\net9.0\\compressed\\76ftn8os79-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:28:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-KVSTOHD7e2/M8ia4nCNt7NpI6Lhu99PpJ8EzU/XD5rE="
         }
       ]
     },
@@ -3320,6 +4021,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "img/bebepensando.96exom6pq5.png",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\bebepensando.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2naQPdRscjl9ENazHb1UYXYT0YK6Jz8/IpoazzEzk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:53:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96exom6pq5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bebepensando.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2naQPdRscjl9ENazHb1UYXYT0YK6Jz8/IpoazzEzk0="
+        }
+      ]
+    },
+    {
+      "Route": "img/bebepensando.png",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\bebepensando.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2naQPdRscjl9ENazHb1UYXYT0YK6Jz8/IpoazzEzk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Aug 2025 21:53:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2naQPdRscjl9ENazHb1UYXYT0YK6Jz8/IpoazzEzk0="
         }
       ]
     },
@@ -21310,7 +22093,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21363,7 +22146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21400,7 +22183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21447,7 +22230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21500,7 +22283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21537,7 +22320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21584,7 +22367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21645,7 +22428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21690,7 +22473,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21745,7 +22528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21806,7 +22589,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21851,7 +22634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Aug 2025 20:33:15 GMT"
+          "Value": "Sat, 30 Aug 2025 21:29:04 GMT"
         },
         {
           "Name": "Cache-Control",

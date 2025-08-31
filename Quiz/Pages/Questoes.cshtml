@@ -4,4 +4,70 @@
 	ViewData["Title"] = "Quiz";
 }
 
-<h1> Aqui vão as nossas questões</h1>
+<div class="Pergunta">
+		<form method="post" asp-page-handler="ResponderPerguntas">
+			<div class="Pergunta1">
+				<h2>HTML é uma linguagem de programação?</h2>
+				<br>
+				<label class="form-check-label" for="radioSim">
+				<input type="radio" asp-for="RespostaPergunta1" value="true"> Sim
+				</label>
+
+				<label class="form-check-label" for="radioNao">
+				<input type="radio" asp-for="RespostaPergunta1" value="false"> Não
+				</label>
+			</div>
+
+			<br>
+
+			<div class="Pergunta2">
+				<h2>CSS é uma linguagem de estilização de páginas WEB?</h2>
+				<br>
+				<label class="form-check-label" for="radioSim">
+				<input type="radio" asp-for="RespostaPergunta2" value="true"> Sim
+				</label>
+
+				<label class="form-check-label" for="radioNao">
+				<input type="radio" asp-for="RespostaPergunta2" value="false"> Não
+				</label>
+			</div>
+
+			<br>
+
+			<div class="Pergunta3">
+				<h2>Qual linguagem de programação utilizamos para estruturar banco de dados relacionais?</h2>
+				<br>
+				<label class="form-check-label" for="radioSim">
+					<input type="radio" asp-for="RespostaPergunta3" value="C#"> C#
+				</label>
+
+				<label class="form-check-label" for="radioNao">
+					<input type="radio" asp-for="RespostaPergunta3" value="Java"> Java
+				</label>
+
+				<label class="form-check-label" for="radioSim">
+					<input type="radio" asp-for="RespostaPergunta3" value="SQL"> SQL
+				</label>
+
+				<label class="form-check-label" for="radioNao">
+					<input type="radio" asp-for="RespostaPergunta3" value="Ruby"> Ruby
+				</label>
+
+				<label class="form-check-label" for="radioNao">
+					<input type="radio" asp-for="RespostaPergunta3" value="GitHub"> GitHub
+				</label>
+			</div>
+
+			<br>
+
+			<div class="Pergunta4">
+				<h2></h2>
+			</div>
+		<button type="submit" class="BtnPerguntas">Responder</button>
+		</form>	
+</div>
+
+
+@{
+	<p>Quantidade de acertos: @Model.QtdAcertos</p>
+}

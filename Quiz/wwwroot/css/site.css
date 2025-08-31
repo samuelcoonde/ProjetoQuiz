@@ -1,3 +1,9 @@
+:root {
+    --fundo: #F8FAFC;
+    --azul-titulo: #1E40AF;
+    --azul-texto: #334155;
+}
+
 html {
   font-size: 14px;
 }
@@ -18,6 +24,7 @@ html {
 }
 
 body {
+  background-color: var(--fundo);
   margin-bottom: 60px;
 }
 

@@ -17,7 +17,6 @@ C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\D
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\scopedcss\bundle\Quiz.styles.css
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\scopedcss\projectbundle\Quiz.bundle.scp.css
-C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\76ftn8os79-b9sayid5wm.gz
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\e95kqzvcwr-61n19gt1b8.gz
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\3xq11z330p-xtxxf3hu2r.gz
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\dp6vpw2ztf-bqjiyaj88i.gz
@@ -96,3 +95,7 @@ C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\D
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\Quiz.pdb
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\Quiz.genruntimeconfig.cache
 C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\ref\Quiz.dll
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\Quiz.sourcelink.json
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\76ftn8os79-k6pxfbl58i.gz
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\yyxasyom66-5b1gjid3gv.gz
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\AULASWEB\Quiz\Quiz\obj\Debug\net9.0\compressed\43mwft5bcj-kcto7k2lue.gz
