@@ -15,6 +15,9 @@ namespace Quiz.Pages
         [BindProperty]
         public string? RespostaPergunta3 { get; set; }
 
+        [BindProperty]
+        public DateTime? RespostaPergunta4 { get; set; }
+
         public int QtdAcertos { get; set; }
 
         public void OnGet()
@@ -34,6 +37,14 @@ namespace Quiz.Pages
             if(RespostaPergunta3 == "SQL")
             {
                 QtdAcertos++;
+            }
+            if(RespostaPergunta4 < DateTime.Now)
+            {
+                DateTime dataDotNet = new DateTime(2002, 2, 13);
+                if(RespostaPergunta4 == dataDotNet)
+                {
+                    QtdAcertos++;
+                }
             }
         }
 

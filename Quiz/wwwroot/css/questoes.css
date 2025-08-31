@@ -41,6 +41,19 @@
     border-radius: 10px;
 }
 
+.Pergunta4 {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--azul-claro);
+    padding: 50px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.Pergunta4 input[type="date"]{
+    width: 35%;
+}
+
 .BtnPerguntas button {
     background-color: var(--azul-claro);
     border-radius: 5px;
