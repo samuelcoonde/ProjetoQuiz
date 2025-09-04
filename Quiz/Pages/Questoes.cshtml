@@ -10,154 +10,246 @@
 			<div class="Pergunta1">
 				<h2>HTML é uma linguagem de programação?</h2>
 				<br>
-				<label class="LabelRadio">
-				<input type="radio" id="op1" asp-for="RespostaPergunta1" value="true"> Sim
+				<label>
+					<input type="radio" asp-for="RespostaPergunta1" value="false"> Sim
 				</label>
 
-				<label class="LabelRadio">
-				<input type="radio" asp-for="RespostaPergunta1" value="false"> Não
+				<label>
+					<input type="radio" asp-for="RespostaPergunta1" value="true"> Não
 				</label>
+
+				@{
+					if (@Model.RespostaPergunta1 != null)
+					{
+					<div class="@(Model.RespostaPergunta1 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+						<p>@(Model.RespostaPergunta1 == true ? "Você acertou parabéns!!!" : "Resposta certa: Não")</p>
+						</div>
+					}
+				}
 			</div>
 
 			<div class="Pergunta2">
 				<h2>CSS é uma linguagem de estilização de páginas WEB?</h2>
 				<br>
-				<label class="form-check-label">
-				<input type="radio" asp-for="RespostaPergunta2" value="true"> Sim
+				<label>
+					<input type="radio" asp-for="RespostaPergunta2" value="true"> Sim
 				</label>
 
-				<label class="form-check-label">
-				<input type="radio" asp-for="RespostaPergunta2" value="false"> Não
+				<label>
+					<input type="radio" asp-for="RespostaPergunta2" value="false"> Não
 				</label>
+
+				@{
+					if (@Model.RespostaPergunta2 != null)
+					{
+						<div class="@(Model.RespostaPergunta2 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta2 == true ? "Você acertou parabéns!!!" : "Resposta certa: Sim")</p>
+						</div>
+					}
+				}
 			</div>
 
 			<div class="Pergunta3">
 				<h2>Qual linguagem de programação utilizamos para estruturar banco de dados relacionais?</h2>
 				<br>
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta3" value="C#"> C#
+				<label>
+					<input type="radio" asp-for="RespostaPergunta3" value="false"> C#
+				</label>
+
+				<label>
+					<input type="radio" asp-for="RespostaPergunta3" value="false"> Java
+				</label>
+
+				<label>
+					<input type="radio" asp-for="RespostaPergunta3" value="true"> SQL
 				</label>
 
 				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta3" value="Java"> Java
+					<input type="radio" asp-for="RespostaPergunta3" value="false"> Ruby
 				</label>
 
 				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta3" value="SQL"> SQL
+					<input type="radio" asp-for="RespostaPergunta3" value="false"> GitHub
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta3" value="Ruby"> Ruby
-				</label>
-
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta3" value="GitHub"> GitHub
-				</label>
+				@{
+					if (@Model.RespostaPergunta3 != null)
+					{
+						<div class="@(Model.RespostaPergunta3 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta3 == true ? "Você acertou parabéns!!!" : "Resposta certa: SQL")</p>
+						</div>
+					}
+				}
 			</div>
 
 			<div class="Pergunta4">
-				<h2>Em qual ano o .NET foi criado?</h2>
-				<input type="date" asp-for="RespostaPergunta4">
+				<h2>Qual será a saída da expressão?</h2>
+				<img src="~/img/codigo3.png" />
+				<br>
+				<label>
+					<input type="radio" asp-for="RespostaPergunta4" value="false"> Verdadeiro
+				</label>
+
+				<label>
+					<input type="radio" asp-for="RespostaPergunta4" value="true"> Falso
+				</label>
+
+				@{
+					if (@Model.RespostaPergunta4 != null)
+					{
+						<div class="@(Model.RespostaPergunta4 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta4 == true ? "Você acertou parabéns!!!" : "Resposta certa: Falso")</p>
+						</div>
+					}
+				}
 			</div>
 
+
 			<div class="Pergunta5">
-				<h2>Em SQL (Strucutre Query Language) qual comando utilizamos para realizar uma consulta?</h2>
-				<input type="text" asp-for="RespostaPergunta5" placeholder="Digite aqui..."/>
+				<h2>Qual será o valor de x quando o laço de repetição acabar?</h2>
+				<img src="~/img/codigo2.png" />
+				<br>
+				<label>
+					<input type="radio" asp-for="RespostaPergunta5" value="false"> 12
+				</label>
+
+				<label>
+				<input type="radio" asp-for="RespostaPergunta5" value="true"> 10
+				</label>
+
+				<label>
+					<input type="radio" asp-for="RespostaPergunta5" value="false"> 8
+				</label>
+
+				<label>
+					<input type="radio" asp-for="RespostaPergunta5" value="false"> Erro ao compilar
+				</label>
+
+				<label>
+					<input type="radio" asp-for="RespostaPergunta5" value="false"> 0
+				</label>
+
+				@{
+					if (@Model.RespostaPergunta5 != null)
+					{
+						<div class="@(Model.RespostaPergunta5 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta5 == true ? "Você acertou parabéns!!!" : "Resposta certa: 10")</p>
+						</div>
+					}
+				}
 			</div>
+			
 
 			<div class="Pergunta6">
 				<h2>De qual linguagem de programação é esse icon?</h2>
 			<img src="~/img/javascript-original.svg"/>
 			<br>
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta6" value="Python"> Python
+				<label>
+				<input type="radio" asp-for="RespostaPergunta6" value="false"> Python
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta6" value="PHP"> PHP
+				<label>
+					<input type="radio" asp-for="RespostaPergunta6" value="false"> PHP
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta6" value="CSS"> CSS
+				<label>
+					<input type="radio" asp-for="RespostaPergunta6" value="false"> CSS
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta6" value="Javascript"> Javascript
+				<label>
+					<input type="radio" asp-for="RespostaPergunta6" value="true"> Javascript
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta6" value="Angular"> Angular
+				<label>
+					<input type="radio" asp-for="RespostaPergunta6" value="false"> Angular
 				</label>
+
+				@{
+					if (@Model.RespostaPergunta6 != null)
+					{
+						<div class="@(Model.RespostaPergunta6 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta6 == true ? "Você acertou parabéns!!!" : "Resposta certa: JavaScript")</p>
+						</div>
+					}
+				}
 			</div>
 
 			<div class="Pergunta7">
 				<h2>Qual será a saída desse programa abaixo?</h2>
 				<img src="~/img/codigo.png" />
 				<br>
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta7" value=1> Resultado: 22
+				<label>
+					<input type="radio" asp-for="RespostaPergunta7" value="false"> Resultado: 22
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta7" value=2> Resultado:
+				<label>
+					<input type="radio" asp-for="RespostaPergunta7" value="false"> Resultado:
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta7" value=3> Erro de compilação
+				<label>
+					<input type="radio" asp-for="RespostaPergunta7" value="true"> Erro de compilação
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta7" value=4> Resultado: 4
+				<label>
+					<input type="radio" asp-for="RespostaPergunta7" value="false"> Resultado: 4
 				</label>
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta7" value=5> Resultado: 2 2
+				<label>
+					<input type="radio" asp-for="RespostaPergunta7" value="false"> Resultado: 2 2
 				</label>
+
+				@{
+					if (@Model.RespostaPergunta7 != null)
+					{
+						<div class="@(Model.RespostaPergunta7 == true ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta7 == true ? "Você acertou parabéns!!!" : "Resposta certa: Erro de compilação")</p>
+						</div>
+					}
+				}
 			</div>
 
 			<div class="Pergunta8">
-				<h2>Qual será o valor de x quando o laço de repetição acabar?</h2>
-				<img src="~/img/codigo2.png" />
-				<br>
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta8" value=1> 12
-				</label>
+				<h2>Em SQL (Strucutre Query Language) qual comando utilizamos para realizar uma consulta?</h2>
+				<input type="text" asp-for="RespostaPergunta8" placeholder="Digite aqui..." />
 
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta8" value=2> 10
-				</label>
-
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta8" value=3> 8
-				</label>
-
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta8" value=4> Erro ao compilar
-				</label>
-
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta8" value=5> 0
-				</label>
+				@{
+					if (@Model.RespostaPergunta8 != null)
+					{
+						<div class="@(Model.RespostaPergunta8.ToUpper().Equals("SELECT") ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+							<p>@(Model.RespostaPergunta8.ToUpper().Equals("SELECT") ? "Você acertou parabéns!!!" : "Resposta certa: SELECT")</p>
+						</div>
+					}
+				}
 			</div>
 
 			<div class="Pergunta9">
 				<h2>Qual expressão utilizamos para tomar decisões com base em condições?</h2>
 				<br>
-				<input type="text" asp-for="RespostaPergunta9" placeholder="Digite aqui..."/> 
+				<input type="text" asp-for="RespostaPergunta9" placeholder="Digite aqui..."/>
+
+			@{
+				if (@Model.RespostaPergunta9 != null)
+				{
+					<div class="@(Model.RespostaPergunta9.ToLower().Equals("if") ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+						<p>@(Model.RespostaPergunta9.ToLower().Equals("if") ? "Você acertou parabéns!!!" : "Resposta certa: if")</p>
+					</div>
+				}
+			}
 			</div>
 
 			<div class="Pergunta10">
-				<h2>Qual será a saída da expressão?</h2>
-				<img src="~/img/codigo3.png" />
-				<br>
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta10" value=true> Verdadeiro
-				</label>
-
-				<label class="form-check-label">
-					<input type="radio" asp-for="RespostaPergunta10" value=false> Falso
-				</label>
-			</div>
+				<h2>Em qual ano o .NET foi criado?</h2>
+				<input type="date" asp-for="RespostaPergunta10">
+		
+				@{
+					if (@Model.RespostaPergunta10 != null)
+					{
+					<div class="@(Model.RespostaPergunta10 == new DateTime(2002, 2, 13) ? "MostraRespostaCorreta" : "MostraRespostaErrada")">
+						<p>@(Model.RespostaPergunta10 == new DateTime(2002, 2, 13) ? "Você acertou parabéns!!!" : "Resposta certa: 13/02/2002")</p>
+						</div>
+					}
+				}
+		</div>
 		<button type="submit" class="BtnPerguntas">Responder</button>
 		</form>	
 </div>
@@ -165,7 +257,8 @@
 <div class="Resultado">
 	<details>
 		<summary> Clique aqui para ver o resultado </summary>
-		<br>
-		<p>Quantidade de questões certas: @Model.QtdAcertos</p>
+		<ul class="ListaResultado" style="padding: 0px;">
+			<li>Quantidade de questões certas: @Model.QtdAcertos</li>
+		</ul>
 	</details>
 </div>

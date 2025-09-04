@@ -67,7 +67,7 @@ wwwroot\css\introducao.css
 wwwroot\css\questoes.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\img\bebepensando.png
+wwwroot\img\bebepensando2.png
 wwwroot\img\codigo.png
 wwwroot\img\codigo2.png
 wwwroot\img\codigo3.png

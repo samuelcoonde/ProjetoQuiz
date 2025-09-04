@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6xwhouyrj1</Fingerprint>
-      <Integrity>Fg/1H2oTdum1/ipgDua4eISvljYPQA8e2wZ2XlxyoUs=</Integrity>
+      <Fingerprint>gi8hiocz77</Fingerprint>
+      <Integrity>WHez+XpzqMgbBBOO7Y3fuW6uKXmF41oralHuxvNU/K8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\questoes.css'))</OriginalItemSpec>
@@ -72,23 +72,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bebepensando.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bebepensando2.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Quiz</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Quiz</BasePath>
-      <RelativePath>img/bebepensando.png</RelativePath>
+      <RelativePath>img/bebepensando2.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>96exom6pq5</Fingerprint>
-      <Integrity>/2naQPdRscjl9ENazHb1UYXYT0YK6Jz8/IpoazzEzk0=</Integrity>
+      <Fingerprint>va73t7urqa</Fingerprint>
+      <Integrity>t6Aa9X6Kpkhb55+oBFRgMIbp6NQ0pJBLx/rnNIb4FlE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bebepensando.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\bebepensando2.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\codigo.png'))">
       <SourceType>Package</SourceType>

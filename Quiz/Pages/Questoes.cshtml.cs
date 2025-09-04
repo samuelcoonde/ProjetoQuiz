@@ -13,28 +13,29 @@ namespace Quiz.Pages
         public bool? RespostaPergunta2 { get; set; }
 
         [BindProperty]
-        public string? RespostaPergunta3 { get; set; }
+        public bool? RespostaPergunta3 { get; set; }
 
         [BindProperty]
-        public DateTime? RespostaPergunta4 { get; set; }
+        public bool? RespostaPergunta4 { get; set; }
 
         [BindProperty]
-        public string? RespostaPergunta5 { get; set; }
+        public bool? RespostaPergunta5 { get; set; }
 
         [BindProperty]
-        public string? RespostaPergunta6 { get; set; }
+        public bool? RespostaPergunta6 { get; set; }
 
         [BindProperty]
-        public int RespostaPergunta7 { get; set; }
+        public bool? RespostaPergunta7 { get; set; }
 
         [BindProperty]
-        public int RespostaPergunta8 { get; set; }
+        public string? RespostaPergunta8 { get; set; }
 
         [BindProperty]
         public string? RespostaPergunta9 { get; set; }
 
+
         [BindProperty]
-        public bool? RespostaPergunta10 { get; set; }
+        public DateTime? RespostaPergunta10 { get; set; }
 
         public int QtdAcertos { get; set; }
 
@@ -44,67 +45,37 @@ namespace Quiz.Pages
 
         public void OnPostResponderPerguntas()
         {
-            if(RespostaPergunta1 == false)
+            if (RespostaPergunta1 == true) QtdAcertos++;
+            if (RespostaPergunta2 == true) QtdAcertos++;
+            if (RespostaPergunta3 == true) QtdAcertos++;
+            if (RespostaPergunta4 == true) QtdAcertos++;
+            if (RespostaPergunta5 == true) QtdAcertos++;
+            if (RespostaPergunta6 == true) QtdAcertos++;
+            if (RespostaPergunta7 == true) QtdAcertos++;
+
+            if (RespostaPergunta8 != null && RespostaPergunta8.Length < 100)
             {
-                QtdAcertos++;
-            }
-            if(RespostaPergunta2 == true)
-            {
-                QtdAcertos++;
-            }
-            if(RespostaPergunta3 != null)
-            {
-                if (RespostaPergunta3.ToUpper().Equals("SQL"))
+                if (RespostaPergunta8.ToUpper().Equals("SELECT"))
                 {
                     QtdAcertos++;
                 }
             }
-            if(RespostaPergunta4 < DateTime.Now)
-            {
-                DateTime dataDotNet = new DateTime(2002, 2, 13);
-                if(RespostaPergunta4 == dataDotNet)
-                {
-                    QtdAcertos++;
-                }
-            }
-            if(RespostaPergunta5 != null)
-            {
-                if (RespostaPergunta5.ToUpper().Equals("SELECT"))
-                {
-                    QtdAcertos++;
-                }
-            }
-            if(RespostaPergunta6 != null)
-            {
-                if (RespostaPergunta6.Equals("Javascript"))
-                {
-                    QtdAcertos++;
-                }
-            }
-            if(RespostaPergunta7 == 3)
-            {
-                QtdAcertos++;
-            }
-            if(RespostaPergunta8 == 2)
-            {
-                QtdAcertos++;
-            }
-            if(RespostaPergunta9 != null)
+            if (RespostaPergunta9 != null && RespostaPergunta9.Length < 100)
             {
                 if (RespostaPergunta9.ToLower().Equals("if"))
                 {
                     QtdAcertos++;
                 }
             }
-            if(RespostaPergunta10 == false)
+            if (RespostaPergunta10 < DateTime.Now)
             {
-                QtdAcertos++;
+                DateTime dataDotNet = new DateTime(2002, 2, 13);
+                if (RespostaPergunta10 == dataDotNet)
+                {
+                    QtdAcertos++;
+                }
             }
-        }
 
-        public int Acertos()
-        {
-            return QtdAcertos;
         }
     }
 }

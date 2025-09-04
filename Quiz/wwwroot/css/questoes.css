@@ -58,7 +58,7 @@ label {
     margin: 50px;
 }
 
-.Pergunta4 {
+.Pergunta10 {
     display: flex;
     flex-direction: column;
     background-color: var(--azul-claro);
@@ -68,7 +68,7 @@ label {
     margin: 50px;
 }
 
-.Pergunta4 input[type="date"]{
+.Pergunta10 input[type="date"]{
     width: 35%;
     height: 50px;
     border-radius: 10px;
@@ -84,10 +84,10 @@ label {
     margin: 50px;
 }
 
-.Pergunta5 input[type="text"] {
-    width: 35%;
-    height: 50px;
-    border-radius: 10px;
+.Pergunta5 img {
+    width: 50%;
+    height: 20%;
+    margin-top: 20px;
 }
 
 .Pergunta6 {
@@ -103,7 +103,7 @@ label {
 .Pergunta6 img {
     width: 20%;
     height: 20%;
-    margin-left: 450px;
+    margin-left: 100px;
     margin-top: 20px;
 }
 
@@ -123,6 +123,7 @@ label {
     margin-top: 20px;
 }
 
+
 .Pergunta8 {
     display: flex;
     flex-direction: column;
@@ -133,10 +134,10 @@ label {
     margin: 50px;
 }
 
-.Pergunta8 img {
-    width: 50%;
-    height: 20%;
-    margin-top: 20px;
+.Pergunta8 input[type="text"] {
+    width: 35%;
+    height: 50px;
+    border-radius: 10px;
 }
 
 .Pergunta9 {
@@ -155,7 +156,7 @@ label {
     border-radius: 10px;
 }
 
-.Pergunta10 {
+.Pergunta4 {
     display: flex;
     flex-direction: column;
     background-color: var(--azul-claro);
@@ -165,7 +166,7 @@ label {
     margin: 50px;
 }
 
-.Pergunta10 img {
+.Pergunta4 img {
     width: 50%;
     height: 20%;
     margin-top: 20px;
@@ -191,13 +192,51 @@ details {
     border-radius: 5px;
 }
 
+.MostraRespostaCorreta {
+    display: flex;
+    justify-content: center;
+    background-color: forestgreen;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.MostraRespostaCorreta p {
+    font-size: 20px;
+    padding: 5px;
+    margin: 0;
+    color: #ffffff;
+}
+
+.MostraRespostaErrada {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.MostraRespostaErrada p {
+    font-size: 20px;
+    padding: 5px;
+    margin: 0;
+    color: #ffffff;
+}
+
 summary {
     font-weight: 500;
     list-style: none;
     font-size: 20px;
 }
 
-.Resultado p {
+.ListaResultado ul {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.ListaResultado li {
+    list-style: none;
     font-weight: 800;
-    margin-left: 230px;
 }
