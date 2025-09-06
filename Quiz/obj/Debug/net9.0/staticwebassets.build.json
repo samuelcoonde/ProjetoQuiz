@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tRTTUMS0UdZCAjFwQlkptQ4xgSXcsb22JwMHHvWWy5I=",
+  "Hash": "GwQuUjM0+0UyDe8GzM+vNTNRlyAo2+t93R3S3LuWgQs=",
   "Source": "Quiz",
   "BasePath": "_content/Quiz",
   "Mode": "Default",
@@ -1550,27 +1550,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\bebepensando2.png",
-      "SourceId": "Quiz",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\",
-      "BasePath": "_content/Quiz",
-      "RelativePath": "img/bebepensando2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "va73t7urqa",
-      "Integrity": "t6Aa9X6Kpkhb55+oBFRgMIbp6NQ0pJBLx/rnNIb4FlE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\bebepensando2.png"
-    },
-    {
       "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\codigo.png",
       "SourceId": "Quiz",
       "SourceType": "Discovered",
@@ -1632,6 +1611,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\codigo3.png"
+    },
+    {
+      "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\imagemintro.png",
+      "SourceId": "Quiz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\",
+      "BasePath": "_content/Quiz",
+      "RelativePath": "img/imagemintro#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsluek0a8r",
+      "Integrity": "Kxis+dHX/ZKaXAxoedbE9SGXvNXACA9Rbd8bDDTlPS4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\imagemintro.png"
     },
     {
       "Identity": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\javascript-original.svg",
@@ -4130,88 +4130,6 @@
       ]
     },
     {
-      "Route": "img/bebepensando2.png",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\bebepensando2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"t6Aa9X6Kpkhb55+oBFRgMIbp6NQ0pJBLx/rnNIb4FlE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 04 Sep 2025 21:25:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-t6Aa9X6Kpkhb55+oBFRgMIbp6NQ0pJBLx/rnNIb4FlE="
-        }
-      ]
-    },
-    {
-      "Route": "img/bebepensando2.va73t7urqa.png",
-      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\bebepensando2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"t6Aa9X6Kpkhb55+oBFRgMIbp6NQ0pJBLx/rnNIb4FlE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 04 Sep 2025 21:25:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "va73t7urqa"
-        },
-        {
-          "Name": "label",
-          "Value": "img/bebepensando2.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-t6Aa9X6Kpkhb55+oBFRgMIbp6NQ0pJBLx/rnNIb4FlE="
-        }
-      ]
-    },
-    {
       "Route": "img/codigo.4pf9643mqc.png",
       "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\codigo.png",
       "Selectors": [],
@@ -4454,6 +4372,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-g54MdKjWVGXQzDBPz6Yzqgw9OF96jxE7AKmfWnb9wvc="
+        }
+      ]
+    },
+    {
+      "Route": "img/imagemintro.lsluek0a8r.png",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\imagemintro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxis+dHX/ZKaXAxoedbE9SGXvNXACA9Rbd8bDDTlPS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 06 Sep 2025 14:26:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsluek0a8r"
+        },
+        {
+          "Name": "label",
+          "Value": "img/imagemintro.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxis+dHX/ZKaXAxoedbE9SGXvNXACA9Rbd8bDDTlPS4="
+        }
+      ]
+    },
+    {
+      "Route": "img/imagemintro.png",
+      "AssetFile": "C:\\Users\\samuel\\OneDrive\\Documentos\\Faculdade\\4Semestre\\AULASWEB\\Quiz\\Quiz\\wwwroot\\img\\imagemintro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxis+dHX/ZKaXAxoedbE9SGXvNXACA9Rbd8bDDTlPS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 06 Sep 2025 14:26:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxis+dHX/ZKaXAxoedbE9SGXvNXACA9Rbd8bDDTlPS4="
         }
       ]
     },

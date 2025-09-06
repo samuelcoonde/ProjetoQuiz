@@ -67,10 +67,10 @@ wwwroot\css\introducao.css
 wwwroot\css\questoes.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\img\bebepensando2.png
 wwwroot\img\codigo.png
 wwwroot\img\codigo2.png
 wwwroot\img\codigo3.png
+wwwroot\img\imagemintro.png
 wwwroot\img\javascript-original.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
